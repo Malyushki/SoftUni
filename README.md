@@ -2,7 +2,7 @@
 This README provides information about my education at SoftUni.
 
 ## Table of Contents
-* [Programming Fundamentals with Java - September 2022](#Programming Fundamentals with Java - September 2022)
+* [Programming Fundamentals with Java - September 2022](#Programming-Fundamentals)
 
 
 
